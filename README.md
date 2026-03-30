@@ -167,12 +167,17 @@ http://localhost:8080
 
 ## 📸 Screenshots
 
-*(Add screenshots here)*
+### Dashboard
+![Dashboard](screenshots/dashboard.png)
 
-* Dashboard
-* Student Management Page
-* Course Management Page
-* Registration Page
+### Students Page
+![Students](screenshots/students.png)
+
+### Courses Page
+![Courses](screenshots/courses.png)
+
+### Registrations Page
+![Registrations](screenshots/registrations.png)
 
 ---
 
